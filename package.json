@@ -1,0 +1,19 @@
+{
+  "name": "d3-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "d3.v3.min.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.50.0",
+    "scss": "^0.2.4",
+    "vite": "^2.9.1",
+    "vite-plugin-static-copy": "^0.4.4"
+  }
+}
